@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: https://bugclaim.com
+Sitemap: https://bugclaim.com/sitemap.xml

@@ -1,0 +1,14 @@
+{
+  "name": "Bugclaim",
+  "description": "It is a vulnerability coordination and bug bounty platform that connects businesses with penetration testers and cybersecurity researchers.",
+  "formation": {
+    "web": {
+      "quantity": 1
+    }
+  },
+  "buildpacks": [
+    {
+      "url": "heroku/nodejs"
+    }
+  ]
+}
